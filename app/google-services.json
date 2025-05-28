@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034923107513",
+    "project_id": "alert-fire",
+    "storage_bucket": "alert-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034923107513:android:1b516b258b17c8b0e1a768",
+        "android_client_info": {
+          "package_name": "com.DWSENAI.firealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034923107513-35hbi31i830mkg2donkplq5ujuv6rf2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rGuO_V8ukVpaytbG86XRrUCfYQMuVxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034923107513-35hbi31i830mkg2donkplq5ujuv6rf2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

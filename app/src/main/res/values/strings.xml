@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireALERT1.0Beta</string>
+    <string name="valvula">valvula</string>
+    <string name="name1">--------------------</string>
+    <string name="trabalho_tcc_deise_e_william">Trabalho TCC DEISE e WILLIAM</string>
+    <string name="cabeca">2021 Vesion: 1.0Beta </string>
+    <string name="digite">Determine o time</string>
+    <string name="definir">Definir</string>
+    <string name="Valvula">Valvula</string>
+    <string name="channel_name" />
+    <string name="channel_description" />
+
+</resources>
