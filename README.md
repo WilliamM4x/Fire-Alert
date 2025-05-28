@@ -4,5 +4,8 @@ Diante da ocorrência de um vazamento de GLP, presença de chama acesa, detecç�
 
 O aplicativo permite ao usuário monitorar o estado do sistema em tempo real e receber notificações sobre quaisquer alterações relevantes.
 
-Na branch imagens, encontram-se vídeos e imagens que documentam o funcionamento do sistema.
-![Screenshot_2021-04-27-14-20-34-646_com DWSENAI firealert](https://github.com/user-attachments/assets/0453459b-75ba-48e8-a8ce-2d5bf185212a)
+Nas pastas ![imagens](imagens/) e ![videos](videos/), encontram-se vídeos e imagens que documentam o funcionamento do sistema.
+Na pasta ![FireALERT](FireALERT%20Projet%20ESP32) Project ESP32 está o código para o ESP32 e um esquema de montagem feito no Fritzing.
+
+Tela principal do app:<br>
+<img src="https://github.com/user-attachments/assets/0453459b-75ba-48e8-a8ce-2d5bf185212a" alt="Screenshot do FireAlert" width="300" />
